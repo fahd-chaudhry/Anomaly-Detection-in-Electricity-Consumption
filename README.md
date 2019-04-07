@@ -5,7 +5,7 @@ Please use this [link](https://docs.google.com/presentation/d/1TruWLok1yTPZml_pv
 ### Instructions:
 #### Note:
 The datasets have been compressed in a .7z zip file. Please extract the datasets before continuing.
-There are 6 datasets in total
+There are 6 datasets in total, listed below:
   - 5 test datasets
   - 1 training dataset (contains approximately 1.5 million readings)
 
